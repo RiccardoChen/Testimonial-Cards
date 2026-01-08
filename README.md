@@ -7,8 +7,7 @@ A testimonial cards UI component built to display user feedback in a clean, mode
 This project showcases a set of testimonial cards designed to present user reviews, ratings, and profile information in a visually appealing way. The layout focuses on clarity, readability, and modern design patterns commonly used in real-world web applications.
 
 ## ✨ Features
-
-- Responsive testimonial grid layout  
+ 
 - User avatars with names and roles  
 - Star rating display  
 - Multiple testimonial card styles  
